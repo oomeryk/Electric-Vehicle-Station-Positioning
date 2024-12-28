@@ -1,2 +1,2 @@
 # Electric-Vehicle-Station-Positioning
-Electric Vehicle Charging Station Work for Istanbul Districts
+Electric Vehicle Charging Station Algorithm for Istanbul Districts
